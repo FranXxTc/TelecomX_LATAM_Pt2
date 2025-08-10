@@ -76,6 +76,5 @@ Con estas acciones, **Telecom X** podría reducir su tasa de cancelación y aume
 
 ## 📁 Archivos del proyecto
 
-- `Desafio_TelecomX2_modelos.ipynb` → Notebook con el desarrollo completo de modelos  
-- Carpeta `imagenes/` → Gráficos generados durante el análisis  
+- `TelecomX_LATAM.ipynb` → Notebook con el desarrollo completo de modelos  
 - `README.md` → Documento explicativo
