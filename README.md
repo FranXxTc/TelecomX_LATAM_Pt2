@@ -1,4 +1,4 @@
-# 📊 Predicción y Análisis de Churn en Clientes - Telecom X
+# 📊 Predicción y Análisis de Churn en Clientes - Telecom X Parte 2
 
 Este trabajo tiene como propósito descubrir los factores clave que influyen en la **pérdida de clientes (churn)** en Telecom X.  
 A partir de un dataset real, se realizó un análisis exploratorio exhaustivo y se entrenaron diferentes modelos de machine learning con el fin de **anticipar la cancelación de contratos y proponer estrategias de retención**.
