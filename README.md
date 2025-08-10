@@ -53,25 +53,6 @@ Entre las variables más estudiadas se encuentran:
 - Facturación mensual y total
 - Interacciones con servicio técnico
 
-Ejemplo de visualización de churn:
-
-![Tasa de cancelación](imagenes/proporcion_cancelaciones.png)
-
----
-
-## 🧠 Resultados por modelo
-
-**Regresión Logística**  
-![Importancia Logística](imagenes/feature_importance_log.png)  
-
-**SVM**  
-![Importancia SVM](imagenes/feature_importance_svm.png)  
-
-**XGBoost**  
-![Importancia XGBoost](imagenes/feature_importance_xgb.png)  
-
----
-
 ## 🔑 Principales hallazgos
 
 Los modelos coinciden en que los factores más determinantes son:
